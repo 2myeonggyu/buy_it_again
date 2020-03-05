@@ -1,0 +1,6 @@
+mid,dcateCd,scateCd,mcateCd,lcateCd,userOrderCnt,userFirstLastOrderPeriod,orderMeanPeriod,userRecentlyOrderPeriod,alpha,beta,lambda,prob,rcp,score
+19872743,4105738,3101052,2100201,1100034,2,1,1.0,1,Infinity,Infinity,NaN,NaN,,
+19888869,4103747,3100661,2100110,1100019,2,2,2.0,2,Infinity,Infinity,NaN,NaN,0.15263157894736842,NaN
+1989744,4105738,3101052,2100201,1100034,3,1,1.0,1,Infinity,Infinity,NaN,NaN,,
+19909903,4101159,3100215,2100028,1100005,2,1,1.0,1,Infinity,Infinity,NaN,NaN,0.21,NaN
+19954006,4103311,3100597,2100097,1100018,2,3,3.0,3,Infinity,Infinity,NaN,NaN,0.05952380952380952,NaN
